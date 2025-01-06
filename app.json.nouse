@@ -8,13 +8,13 @@
     ],
     "env": {
         "BOT_TOKEN": {
-            "description": "Your Bot token from @Botfather"
+            "8161617325:AAEBdUCYDJlNOMe_FlFwGYYLsJLnxIh3eYw"
         },
         "API_ID": {
-            "description": "Your API_ID from https://my.telegram.org/apps"
+            "23154644"
         },
         "API_HASH": {
-            "description": "Your API_HASH from https://my.telegram.org/apps"
+            "953b15a63a270677c5e583111285d1a1"
         }
     },
     "buildpacks": [
